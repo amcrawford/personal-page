@@ -1,0 +1,41 @@
+body {
+  background-color: #FFC4A1;
+  font-family: "Lato";
+  float: left;
+  position: relative;
+  left: 20%;
+}
+
+header {
+  text-align: left
+}
+
+img {
+  border-radius: 100px;
+  display: block;
+  margin-left: 36px;
+  max-width: 100%
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+/*.logo {
+  border-top: 4px solid #648880;
+  padding: 40px 0 22px 0;
+  float: left;
+}*/
+
+.button{
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-top: 48px;
+}
+
+
+footer {
+  padding-bottom: 44px;
+  padding-top: 44px;
+}
